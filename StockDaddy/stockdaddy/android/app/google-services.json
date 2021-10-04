@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "396425337894",
+    "project_id": "stockdaddy-7dc14",
+    "storage_bucket": "stockdaddy-7dc14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396425337894:android:eeff651422d7a32a069ae7",
+        "android_client_info": {
+          "package_name": "com.example.stockdaddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396425337894-qrfefbp959hpq3n02h20mjbq4394rt75.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHAp3WOI-zXHKT_C5hMcbQq3Jn6sgdP1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396425337894-qrfefbp959hpq3n02h20mjbq4394rt75.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
